@@ -59,6 +59,9 @@ Open and run the Jupyter notebooks in the `/notebook` directory using Jupyter No
 - Conduct exploratory data analysis.
 - Train and evaluate forecasting models.
 
+## Model evaluation 
+![Prediction Graph](https://github.com/sahilgoyal7214/IISF-Hackathon/blob/main/actual_vs_predicted.png?raw=true)
+
 ## 🏆 About IISF Hackathon 2023  
 The **India International Science Festival (IISF) Hackathon 2023**, powered by **Hack2Skill**, is a prestigious event where innovators address scientific and technological challenges using AI and machine learning.  
 🔗 **Learn More:** [IISF Hackathon 2023](https://hack2skill.com/hack/iisf-hackathon-2023)
